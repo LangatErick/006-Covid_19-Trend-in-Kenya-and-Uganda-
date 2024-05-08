@@ -1,4 +1,4 @@
-# Learning_Labs-10-Covid_19-Trend-in-Kenya-and-Uganda-
+# 006-Covid_19-Trend-in-Kenya-and-Uganda-
 As the world is in the midst of a once-in-a-century pandemic phase, it would be natural for Data Science students to look closely into the data being generated daily.
 ![image](https://github.com/LangatErick/Learning_Labs-10-Covid_19-Trend-in-Kenya-and-Uganda-/assets/124883947/396cb598-a859-4360-808c-80ef165c107f)
 
